@@ -12,4 +12,4 @@ URI Online Judge is a project developed by the Computer Science Department of UR
 <br></br>
 ### About Me  
 I'm a lazy, good-for-nothing Computer Science and Engineering undergraduate student, currently pursuing my degree in Bangladesh University of Engineering and Technology ([BUET](buet.ac.bd)).  
-I can be found on facebook [here](www.facebook.com/SajidHasanApon). You can also drop me a line at *sajidhasanapon@gmail.com*. 
+I can be found on facebook [here](https://www.facebook.com/SajidHasanApon). You can also drop me a line at *sajidhasanapon@gmail.com*. 
