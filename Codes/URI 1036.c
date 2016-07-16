@@ -7,8 +7,9 @@ int main()
 	double a, b, c;
 	scanf ( "%lf %lf %lf", &a, &b, &c );
 	
-
-	if ( a == 0 || b * b - 4 * a * c < 0 )
+	double D = b * b - 4 * a * c;
+	
+	if ( a == 0 || D < 0 )
 	{
 		printf ( "Impossivel calcular\n" );
 		return 0;
