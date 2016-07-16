@@ -6,14 +6,14 @@ int main()
 {
 	double a, b, c;
 	scanf ( "%lf %lf %lf", &a, &b, &c );
+	
 
 	if ( a == 0 || b * b - 4 * a * c < 0 )
 	{
 		printf ( "Impossivel calcular\n" );
 		return 0;
 	}
-
-	double D = b * b - 4 * a * c;
+	
 	double r1 = ( -b + sqrt ( D ) ) / ( 2 * a );
 	double r2 = ( -b - sqrt ( D ) ) / ( 2 * a );
 
