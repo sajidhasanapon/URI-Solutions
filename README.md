@@ -3,7 +3,7 @@
 My solutions to problems from [www.urionlinejudge.com.br](https://www.urionlinejudge.com.br/judge/en/login).  
 
 The solutions are mainly in C++, with a few in C and Python.  
-Currently, there are 261 solutions, and hopefully, more will be added. 
+Currently, there are 270 solutions, and hopefully, more will be added. 
 <br></br>
 ### About URI Online Judge  
 
